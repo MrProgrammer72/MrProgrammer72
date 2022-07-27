@@ -45,7 +45,7 @@ Here are some ideas to get you started:
    [<img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/telegram-5148275-4299191.webp" width="60px">](https://t.me/@export_gabbar)   <h1>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐎𝐍 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐈𝐂𝐎𝐍  </h1>
 
 <p align="center">
-  <a href="https:https://www.learn-c.org/">
+  <a href="https:https://www.learn-c.org">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a>
 <a href="https://en.wikipedia.org/wiki/HTML?wprov=sfla1">
