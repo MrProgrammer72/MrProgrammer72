@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
-**MrProgrammer72/MrProgrammer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MEIZNOOBCODER/MEIZNOOBCODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,49 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+ 
+ 
+<h1> <img src="https://github.com/MEIZNOOBCODER/MEIZNOOBCODER/blob/main/resources/codes.webp" width="70px"> Hᴇʏ Bᴀʙʏ ɪ'ᴍ ɴᴏᴏʙ ᴄᴏᴅᴇʀ </h1><p align="center">
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=1DF729&multiline=true&width=550&height=200&lines=HEY+BABY++%E2%9C%A8++;I'M+NOOB+DEV+FROM+BIHAR%2CINDIA+%F0%9F%92%AB;ND+I+WANNA+TELL+AB+MY+QUALIFICATION++%F0%9F%93%9A;I'M+PURSING+MY+BSC+FROM+MAGADH+UNIVERSITY%F0%9F%8E%93;MY+INTREST+IS+IN+WEB+DEVELOPEMENT;AND+I+HAVE+COMPLECTED+PYTHON%2CHTML%2CCSS+FROM+GOOGLE+)](https://git.io/typing-svg)
+
+
+
+
+<p align="middle"><a href="https://github.com/MEIZNOOBCODER"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+ <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/MEIZNOOBCODER/count.svg"><br>
+
+  
+  <h1> <img src = "https://github.com/MEIZNOOBCODER/MEIZNOOBCODER/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+
+ [<img src="https://github-readme-stats.vercel.app/api?username=MEIZNOOBCODER&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=43f50c&bg_color=080a08" width="49%">](https://github.com/MEIZNOOBCODER)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEIZNOOBCODER&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MEIZNOOBCODER)
+
+<p align="center">
+  <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+<a href="https://en.wikipedia.org/wiki/HTML?wprov=sfla1">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS?wprov=sfla1">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</a>
+   </p> <br>
+   
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEIZNOOBCODER&theme=blue-green"> </p>
+   
+   
+   
+ 
