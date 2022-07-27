@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/MrProgrammer72/count.svg"><br>
 
   
-  <h1> <img src = "MrProgrammer72/MrProgrammer72/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+  <h1> <img src = "https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
  [<img src="https://github-readme-stats.vercel.app/api?username=MrProgrammer72&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=43f50c&bg_color=080a08" width="49%">](https://github.com/MrProgrammer72)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrProgrammer72&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MrProgrammer72)
 
