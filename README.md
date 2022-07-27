@@ -40,9 +40,10 @@ Here are some ideas to get you started:
 
  [<img src="https://github-readme-stats.vercel.app/api?username=MrProgrammer72&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=43f50c&bg_color=080a08" width="49%">](https://github.com/MrProgrammer72)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrProgrammer72&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MrProgrammer72)
    
-   <h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+   <h1> <img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/contact.gif#:~:text=/-,contact.gif,-Go%20to%20file" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/telegram_icon.png" width="60px">](https://t.me/@export_gabbar)
+  <h1> [<img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/telegram-5148275-4299191.webp" width="60px">](https://t.me/@export_gabbar)𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐎𝐍 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐈𝐂𝐎𝐍 
+
 <p align="center">
   <a href="https:https://www.learn-c.org/">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
