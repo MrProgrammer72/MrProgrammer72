@@ -25,27 +25,27 @@ Here are some ideas to get you started:
  
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=1DF729&multiline=true&width=550&height=200&lines=HEY+BABY++%E2%9C%A8++;I'M+Programmer+GABBAR+FROM+UP%2CINDIA+%F0%9F%92%AB;I'M+PURSING+MY+BTECHCS%F0%9F%8E%93;MY+INTREST+IS+IN+WEB+DEVELOPEMENT;AND+I+HAVE+COMPLECTED+C/C++%2CHTML%2CCSS+FROM+GOOGLE+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA500&multiline=true&width=550&height=200&lines=HEY+BABY++%E2%9C%A8++;I'M+Programmer+GABBAR+FROM+UP%2CINDIA+%F0%9F%92%AB;I'M+PURSING+MY+BTECHCS%F0%9F%8E%93;MY+INTREST+IS+IN+WEB+DEVELOPEMENT;AND+I+HAVE+COMPLECTED+C/C++%2CHTML%2CCSS+FROM+GOOGLE+)](https://git.io/typing-svg)
  
 
 
 
 
 
-<p align="middle"><a href="https://github.com/MrProgrammer72"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<p align="middle"><a href="https://github.com/MrProgrammer72"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=orange"></a>
  <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/MrProgrammer72/count.svg"><br>
 
   
   <h1> <img src = "https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
- [<img src="https://github-readme-stats.vercel.app/api?username=MrProgrammer72&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=43f50c&bg_color=080a08" width="49%">](https://github.com/MrProgrammer72)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrProgrammer72&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MrProgrammer72)
+ [<img src="https://github-readme-stats.vercel.app/api?username=MrProgrammer72&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=FFA500&bg_color=000000" width="49%">](https://github.com/MrProgrammer72)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrProgrammer72&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/MrProgrammer72)
    
    <h1> <img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/contact.gif#:~:text=/-,contact.gif,-Go%20to%20file" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
    [<img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/telegram-5148275-4299191.webp" width="60px">](https://t.me/@export_gabbar)   <h1>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐎𝐍 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐈𝐂𝐎𝐍  </h1>
 
 <p align="center">
-  <a href="https:https://www.learn-c.org">
+  <a href="https:https://www.learn-c.org/">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a>
 <a href="https://en.wikipedia.org/wiki/HTML?wprov=sfla1">
