@@ -41,8 +41,8 @@ Here are some ideas to get you started:
  [<img src="https://github-readme-stats.vercel.app/api?username=MrProgrammer72&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=FFA500&bg_color=000000" width="49%">](https://github.com/MrProgrammer72)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrProgrammer72&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/MrProgrammer72)
    
    <h1> <img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/contact.gif#:~:text=/-,contact.gif,-Go%20to%20file" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<p><a href="https://t.me/export_gabbar"><img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram" width="120""/></a></p>
 
-   [<img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/telegram-5148275-4299191.webp" width="60px">](https://t.me/export_gabbar) [<img src="https://github.com/MrProgrammer72/MrProgrammer72/blob/main/resources/images.jpeg" width="60px">](https://t.me/ADVENTURE_FAMILYS) 
 
 <p align="center">
   <a href="https:https://www.learn-c.org/">
