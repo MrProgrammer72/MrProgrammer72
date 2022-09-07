@@ -67,7 +67,7 @@ Here are some ideas to get you started:
  <h1> <img src="https://github.com/MrProgrammer72/MrProgrammer72blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1> 
 
  
- [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Anonymous Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
+ [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="MrProgrammer Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
    
    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
    
