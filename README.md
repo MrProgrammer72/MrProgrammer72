@@ -57,11 +57,12 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/HTML?wprov=sfla1">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </a>
+ 
+
 <a href="https://en.wikipedia.org/wiki/CSS?wprov=sfla1">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </a>
    </p> <br>
-
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
    
  
