@@ -63,6 +63,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </a>
    </p> <br>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    <a href="https://www.youtube.com/watch?v## **.ᴍᴏꜱᴛ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.** 
+
+ <p align="center"><a href="https://github.com/ItsAttitudeking"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAttitudeking&theme=radical&layout=compact"></a></p>=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
    
- 
+
