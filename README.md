@@ -65,6 +65,6 @@ Here are some ideas to get you started:
    </p> <br>
     <a href="https://www.youtube.com/watch?v## **.ᴍᴏꜱᴛ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.** 
 
- <p align="center"><a href="https://github.com/ItsAttitudeking"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAttitudeking&theme=radical&layout=compact"></a></p>=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   <p align="center"><a href="https://github.com/ItsAttitudeking"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAttitudeking&theme=radical&layout=compact"></a></p>=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
    
 
