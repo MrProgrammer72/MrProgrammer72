@@ -52,5 +52,11 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrProgrammer72&show_icons=true&locale=en&layout=compact" alt="MrProgrammer72" /></p>
+
+<h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1> 
+  
+ [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Anonymous Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z) 
+  
+ [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
  
  <p><img align="center" src="https://te.legra.ph/file/2d22300f528a89139fbad.jpg"></p>
